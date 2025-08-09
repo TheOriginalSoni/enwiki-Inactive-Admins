@@ -1,0 +1,3 @@
+#Generate a bot password using [[Special:BotPasswords]]
+username='Botname@YourUsername'
+password='password'
